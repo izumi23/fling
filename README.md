@@ -1,4 +1,4 @@
-#fling
+# Fling
 
 Watanabe Izumi - Mini-projet OCaml
 
